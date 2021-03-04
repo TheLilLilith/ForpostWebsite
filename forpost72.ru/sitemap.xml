@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://forspost72.ru/index.html</loc>
+    <lastmod>2020-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://forspost72.ru/phone/index.html"/>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/ohrana-chastnyh-fizicheskih-lic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/ohrana_gruzov.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/unnamed.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/poligrapparatus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/original-1gxf.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/secritycameras.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/bp5er3eqqjc.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/asdasd.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/755212051814143.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/license1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/license2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/license1277x397.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://forspost72.ru/images/license2277x398.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://forspost72.ru/assets/vanilla-menu-free.mulib</loc>
+    <lastmod>2017-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
